@@ -1,2 +1,2 @@
 # todolist
-todolist CRUD app using: Spring Boot, Maven, ORM JPA, Hibernate, REST
+todolist CRUD app used: Spring Boot, Maven, ORM JPA, Hibernate, REST
